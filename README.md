@@ -44,6 +44,10 @@
 
 [Remedy Sans](https://github.com/AhmiDarrow/RemedySans) · [Remedy Sans UI](https://github.com/AhmiDarrow/RemedySansUI) · [Ahmi Print](https://github.com/AhmiDarrow/AhmiPrint) · [Ahmi Pixel](https://github.com/AhmiDarrow/AhmiPixelFont)
 
+### 🙂 Emoji
+
+**[Remedy Emoji](https://github.com/AhmiDarrow/RemedyEmoji)**: 1,670 emoji and 46 stickers of original art, as a color font, a JSON list and a dependency-free Rust crate. [![crates.io](https://img.shields.io/crates/v/remedy-emoji.svg)](https://crates.io/crates/remedy-emoji) [![docs.rs](https://img.shields.io/docsrs/remedy-emoji)](https://docs.rs/remedy-emoji)
+
 <br />
 
 <p align="center"><em>"Hope this helps" - Ahmi</em></p>
