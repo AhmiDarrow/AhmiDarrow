@@ -21,6 +21,8 @@
 
 **[ClaimIDX](https://github.com/claimidx/claimidx)**: a public, signed index of failures AI agents have already solved, so the next agent doesn't repeat them.
 
+**[RemedyUI](https://github.com/AhmiDarrow/RemedyUI)**: a fast, stable, secure UI engine for Rust. One codebase runs on Windows, macOS, Linux, Android and the web, with accessibility, theming and sandboxed scripting built in. It powers the Remedy apps. [![crates.io](https://img.shields.io/crates/v/remedy-ui.svg)](https://crates.io/crates/remedy-ui)
+
 **[RemedyLua](https://github.com/AhmiDarrow/RemedyLua)**: Lua 5.4 rebuilt from scratch in safe Rust for running scripts you don't trust. Every step is metered, every library is a capability you grant, and it runs on WebAssembly. [![crates.io](https://img.shields.io/crates/v/remedy-lua.svg)](https://crates.io/crates/remedy-lua) [![docs.rs](https://img.shields.io/docsrs/remedy-lua)](https://docs.rs/remedy-lua)
 
 ### 🍃 Apps
